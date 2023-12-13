@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/bin/Debug/net7.0/PhuongTrinhBacNhat
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/bin/Debug/net7.0/PhuongTrinhBacNhat.deps.json
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/bin/Debug/net7.0/PhuongTrinhBacNhat.runtimeconfig.json
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/bin/Debug/net7.0/PhuongTrinhBacNhat.dll
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/bin/Debug/net7.0/PhuongTrinhBacNhat.pdb
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.dll
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/refint/PhuongTrinhBacNhat.dll
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.pdb
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/PhuongTrinhBacNhat.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/PhuongTrinhBacNhat/obj/Debug/net7.0/ref/PhuongTrinhBacNhat.dll
